@@ -1,0 +1,63 @@
+nav{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1KfjALZG0rdFgQzNBL9YZyB7Y07cUwpnaog&s);
+    background-repeat: repeat-x;
+    opacity: 0.5px;
+   color: rgb(224, 236, 228);
+    text-shadow: rgb(97, 41, 165);
+    text-align: center;
+    text-decoration: underline;
+   }
+   #riya{
+       text-align: right;
+       text-decoration: none;
+   }
+   #domini{
+       text-align: center;
+   text-decoration: none;
+   }
+   #babu{
+       text-align: left;
+       text-decoration: none;
+   }
+    .yoo{
+       height: 100px;
+       font-size: larger;
+       text-align: center;
+       background-color: rgb(193, 50, 62);
+       color: black; 
+    }
+   .zoro{
+      background-image: linear-gradient(to right,red, yellow);
+   }
+
+    .normal{
+       width: 250px;
+       height: 300px;
+       border: 50px;
+      
+       background-color: rgb(73, 140, 44);
+       padding: 10px 10px;
+       display:block;
+       margin-left: auto;
+       margin-right: auto;
+       
+    }
+    #jass{
+       text-align: center;
+       text-decoration: underline;
+    }
+    .Gold{
+       width: 250px;
+       height: 300px;
+       border: 50px;
+       background-color: aquamarine;
+       padding: 10px 10px;
+       display:block;
+       margin-left: auto;
+       margin-right: auto;
+       
+    }
+    #luffy{
+       text-align: center;
+       text-decoration: underline;
+    }
